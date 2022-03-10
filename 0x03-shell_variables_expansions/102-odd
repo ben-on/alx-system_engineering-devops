@@ -1,0 +1,2 @@
+[A[B#!/bin/bash
+paste - - | cut -f1
